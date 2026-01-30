@@ -1,0 +1,5 @@
+data/gpt-codex/*.md
+data/gpt-codex/hashes.manifest
+!data/gpt-codex/CHANGELOG.md
+logs/
+.DS_Store
